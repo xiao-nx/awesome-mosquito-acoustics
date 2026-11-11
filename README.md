@@ -71,20 +71,11 @@ See [tools](tools/README.md) for recording hardware, annotation software, signal
 5. **Separate evidence levels:** distinguish direct mosquito studies, methods validated in other taxa, and future proposals.
 6. **Respect third-party rights:** link external materials rather than redistributing files without permission.
 
-## Contributing
-
-Suggestions, corrections, and new resources are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) or open an issue using the resource templates. Every submitted entry should have a verifiable primary source.
-
 ## Related projects
 
 - **Acoustic Ecological Inference:** a separate, planned methods/code repository for statistical inference from imperfect acoustic observations. A verified link will be added when it becomes available.
 
-## Citation and license
+## Contributing
 
-To cite this catalog, see [`CITATION.cff`](CITATION.cff). Cite **original dataset and model creators** directly whenever using their resources. Original text and repository-maintained code are offered under the [MIT License](LICENSE); upstream resources retain their own licenses and rights.
+Suggestions, corrections, and new resources are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) or open an issue using the resource templates. Every submitted entry should have a verifiable primary source.
 
-## Maintainers
-
-Maintained by community contributors. To request a correction, use [GitHub Issues](../../issues).
-
-<!-- MAINTAINER SETUP: Add the workflow badge after the repository URL is known. -->
