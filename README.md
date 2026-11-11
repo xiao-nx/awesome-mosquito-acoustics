@@ -10,6 +10,7 @@ Mosquito acoustics connects wingbeat biology, sensing technologies, machine lear
 
 **Status:** early-stage resource catalog (v0.1). Entries are added after checking their primary sources. Some sections are intentionally empty while curation is underway.
 
+
 ## Explore Resources
 
 <table>
@@ -29,6 +30,7 @@ Mosquito detection, species classification, representation learning, and domain 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -37,13 +39,21 @@ Mosquito detection, species classification, representation learning, and domain 
 Published benchmark tasks, evaluation protocols, and reproducibility guidelines.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [Publications](publications/README.md)
 
 Curated research papers, reviews, and bibliographic references.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🦟 [Acoustic Biology](acoustic-biology/README.md)
+
+Wingbeat characteristics, acoustic communication, mosquito behaviour, and environmental effects.
 
 </td>
 <td width="50%" valign="top">
@@ -54,19 +64,10 @@ Recording devices, acoustic annotation software, signal processing, and open-sou
 
 </td>
 </tr>
-
-### 🦟 [Acoustic Biology](acoustic-biology/README.md)
-
-Wingbeat characteristics, acoustic communication, mosquito behaviour, and environmental effects.
-
-</td>
-<td width="50%" valign="top">
-  
 </table>
 
-
-
 ---
+
 
 ## Resource Collections
 
