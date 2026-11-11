@@ -6,26 +6,9 @@
 
 A curated, community-maintained collection of **research papers, open datasets, AI models, benchmarks, and tools** for mosquito acoustic sensing and analysis.
 
-Mosquito acoustics connects wingbeat biology, sensing technologies, machine learning, and field monitoring.
+Mosquito acoustics connects wingbeat biology, sensing technologies, machine learning, and field monitoring. This repository helps researchers **discover resources, compare study designs, and identify reproducible methods**.
 
-This repository helps researchers **discover resources, compare study designs, and identify reproducible methods**.
-
----
-
-## Overview
-
-This repository provides an open, community-oriented resource hub for mosquito bioacoustic research, including:
-
-- Acoustic and optical wingbeat datasets
-- AI-based mosquito detection and classification
-- Research papers and methodological advances
-- Published benchmarks and evaluation protocols
-- Acoustic biology and behavioural research
-- Recording and analysis tools
-
-> **Project status:** Early-stage resource catalog (v0.1).
-> Entries are added after checking their primary sources.
-> Some sections are intentionally incomplete while curation is underway.
+**Status:** early-stage resource catalog (v0.1). Entries are added after checking their primary sources. Some sections are intentionally empty while curation is underway.
 
 ## Explore Resources
 
@@ -49,13 +32,6 @@ Mosquito detection, species classification, representation learning, and domain 
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [Publications](publications/README.md)
-
-Curated research papers, reviews, and bibliographic references.
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 [Benchmarks](benchmarks/README.md)
 
 Published benchmark tasks, evaluation protocols, and reproducibility guidelines.
@@ -65,9 +41,9 @@ Published benchmark tasks, evaluation protocols, and reproducibility guidelines.
 <tr>
 <td width="50%" valign="top">
 
-### 🦟 [Acoustic Biology](acoustic-biology/README.md)
+### 📚 [Publications](publications/README.md)
 
-Wingbeat characteristics, acoustic communication, mosquito behaviour, and environmental effects.
+Curated research papers, reviews, and bibliographic references.
 
 </td>
 <td width="50%" valign="top">
@@ -79,6 +55,13 @@ Recording devices, acoustic annotation software, signal processing, and open-sou
 </td>
 </tr>
 </table>
+
+### 🦟 [Acoustic Biology](acoustic-biology/README.md)
+
+Wingbeat characteristics, acoustic communication, mosquito behaviour, and environmental effects.
+
+</td>
+<td width="50%" valign="top">
 
 ---
 
@@ -151,19 +134,6 @@ Topics include:
 - [Benchmark Registry](benchmarks/README.md)
 - [Evaluation Guidelines](benchmarks/evaluation-guidelines.md)
 
-### 🦟 Acoustic Biology
-
-Explore the [Acoustic Biology](acoustic-biology/README.md) collection.
-
-Topics include:
-
-- Wingbeat frequency and harmonic structure
-- Species- and sex-associated variation
-- Acoustic communication and mating behaviour
-- Flight-associated acoustic activity
-- Temperature and physiological effects
-
-The collection distinguishes observed biological associations from independently validated behavioural prediction.
 
 ### 🔧 Tools & Hardware
 
@@ -178,19 +148,19 @@ Explore [Tools & Hardware](tools/README.md) for resources related to:
 
 General-purpose tools are distinguished from systems specifically validated for mosquito acoustic research.
 
----
+### 🦟 Acoustic Biology
 
-## Scope
+Explore the [Acoustic Biology](acoustic-biology/README.md) collection.
 
-This repository is a **curated research resource catalog**, not a hosting platform for third-party datasets, model weights, or copyrighted publications.
+Topics include:
 
-| Included | Outside the Scope |
-|---|---|
-| Mosquito acoustic and optical wingbeat datasets | Unauthorized redistribution of datasets |
-| Published AI models and official implementations | Full third-party training projects and large checkpoints |
-| Mosquito acoustic biology and behavioural evidence | Unvalidated claims that acoustic counts measure abundance |
-| Published benchmarks and evaluation recommendations | Direct comparison of incompatible performance results |
-| Relevant external methodological resources | Full ecological-inference model development |
+- Wingbeat frequency and harmonic structure
+- Species- and sex-associated variation
+- Acoustic communication and mating behaviour
+- Flight-associated acoustic activity
+- Temperature and physiological effects
+
+The collection distinguishes observed biological associations from independently validated behavioural prediction.
 
 ---
 
@@ -205,9 +175,3 @@ A separate, planned research repository focusing on statistical inference from i
 ## Contributing
 
 Contributions from the research community are welcome!
-
-## Citation
-
-If you find this repository useful, please consider citing the original publications and datasets listed here.
-
-Repository citation information is provided in [CITATION.cff](CITATION.cff).
