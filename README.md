@@ -54,7 +54,6 @@ Recording devices, acoustic annotation software, signal processing, and open-sou
 
 </td>
 </tr>
-</table>
 
 ### 🦟 [Acoustic Biology](acoustic-biology/README.md)
 
@@ -62,6 +61,10 @@ Wingbeat characteristics, acoustic communication, mosquito behaviour, and enviro
 
 </td>
 <td width="50%" valign="top">
+  
+</table>
+
+
 
 ---
 
