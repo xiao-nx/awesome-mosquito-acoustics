@@ -8,12 +8,12 @@ A curated registry of open mosquito acoustic and optical wingbeat resources for 
 
 | Dataset | Year | Modality | Scale | Primary uses | Details |
 |---|---|---|---|---|---|
-| WINGBEATS / MosquitoSound | Source 2017; archive 2026 | Optical | 279,566 segments; 6 species | Species classification | [Card](cards/wingbeats-mosquitosound.md) |
-| Vasconcelos et al. | 2020 | Microphone | 3 reported taxonomic groups | Recognition, acoustic features | [Card](cards/vasconcelos-2020.md) |
-| HumBug Zooniverse | 2020 | Microphone | 80,101 overlapping 2 s clips; 195,434 annotations | Mosquito event detection | [Card](cards/humbug-zooniverse.md) |
-| HumBugDB | 2021 | Microphone | 71,286 s labelled mosquito audio; 36 species/complexes (species-labelled subset) | Detection, classification | [Card](cards/humbugdb.md) |
-| BioDCASE CD-MSC | 2026 | Acoustic | 271,380 development clips; 60.66 h; 9 species; 5 domains | Cross-domain classification | [Card](cards/biodcase-cd-msc-2026.md) |
-| Augustin et al. | 2026 | Acoustic traits | 15 recorded species in analysis | Biological/environmental wingbeat effects | [Card](cards/augustin-2026.md) |
+| WINGBEATS / MosquitoSound | Source 2017; archive 2026 | Optical | 279,566 segments; 6 species | Species classification | [Card](wingbeats-mosquitosound.md) |
+| Vasconcelos et al. | 2020 | Microphone | 3 reported taxonomic groups | Recognition, acoustic features | [Card](vasconcelos-2020.md) |
+| HumBug Zooniverse | 2020 | Microphone | 80,101 overlapping 2 s clips; 195,434 annotations | Mosquito event detection | [Card](humbug-zooniverse.md) |
+| HumBugDB | 2021 | Microphone | 71,286 s labelled mosquito audio; 36 species/complexes (species-labelled subset) | Detection, classification | [Card](humbugdb.md) |
+| BioDCASE CD-MSC | 2026 | Acoustic | 271,380 development clips; 60.66 h; 9 species; 5 domains | Cross-domain classification | [Card](biodcase-cd-msc-2026.md) |
+| Augustin et al. | 2026 | Acoustic traits | 15 recorded species in analysis | Biological/environmental wingbeat effects | [Card](augustin-2026.md) |
 
 ## Browse by task
 
@@ -33,7 +33,7 @@ A curated registry of open mosquito acoustic and optical wingbeat resources for 
 
 ## Metadata schema
 
-The canonical machine-readable index is [`datasets.csv`](datasets.csv). Missing values mean *not confirmed in this catalog*, not necessarily absent from the underlying dataset. For each dataset, its card tracks scope, data access, annotation units, limitations, and sources.
+The canonical machine-readable index is [`datasets.csv`](datasets.csv). Missing values mean *not confirmed in this catalog*, not necessarily absent from the underlying dataset. For each dataset, its dataset detail page tracks scope, data access, annotation units, limitations, and sources.
 
 ## Curation rules
 
@@ -88,4 +88,3 @@ The canonical machine-readable index is [`datasets.csv`](datasets.csv). Missing 
 ## Contributing
 
 Please supply the official data URL, publication, dataset version, modality, annotation unit, validated quantities, licensing information, and any known provenance overlap. Propose updates via pull requests.
-
