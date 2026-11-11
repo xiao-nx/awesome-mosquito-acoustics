@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this resource catalog, please cite this repository and cite the original datasets, models, and papers independently."
+title: "Awesome Mosquito Acoustics"
+type: software
+authors:
+  - name: "Awesome Mosquito Acoustics contributors"
+repository-code: "https://github.com/OWNER/awesome-mosquito-acoustics"
+license: MIT
+keywords:
+  - mosquito
+  - bioacoustics
+  - wingbeat
+  - acoustic-monitoring
+  - machine-learning
+# SETUP: Replace OWNER with your GitHub username or organization.
+# Add a DOI and release version only after they exist.
